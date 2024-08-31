@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://steamcommunity.com/id/neonid0/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F020%2F975%2F558%2Fnon_2x%2Fsteam-logo-steam-icon-transparent-free-png.png&f=1&nofb=1&ipt=bad783698e386cc00e7460ccc61ac50e7d958888fee32b426fdaf68f54293351&ipo=images" alt="neonid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
