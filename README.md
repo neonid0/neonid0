@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neonid&label=Profile%20views&color=0e75b6&style=flat" alt="neonid" /> </p>
 
-- 🌱 I’m currently learning **Web Technologies**
-
 - 📫 How to reach me **melihbozcan0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -44,7 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neonid0&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ff5733&icon_color=00ff00" alt="neonid0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neonid0&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=ff5733&icon_color=00ff00" alt="neonid0"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neonid0&theme=dark" alt="neonid0"/></p>
 
